@@ -7,8 +7,8 @@ Nestled within the SDC, the Human Centred Design (HCD) team is tasked with foste
 
 The HCD Methods site describes how HCD puts human-centred design into our engagements. While this resource is designed to be maintained as an internal tool, we encourage organizations in both the public and private sector to adopt human centred design into their products and services.
 
-# Align to the Government of Ontario Digital Service Standard
-The HCD Methods site aligns with the Government of Ontario's new [Digital Service Standard(https://www.ontario.ca/page/digital-service-standard) which sets out 14 points to help anyone build and deliver excellent government services.  
+# Alignment to the Digital Service Standard
+The HCD Methods site aligns with the Government of Ontario's new [Digital Service Standard](https://www.ontario.ca/page/digital-service-standard) which sets out 14 points to help anyone build and deliver excellent government services.  
 
 ## Getting Started
 
