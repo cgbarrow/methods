@@ -1,11 +1,11 @@
 # Methods
 A simplified fork of the [18F Methods](https://github.com/18F/methods) site. Some HTML/CSS and a little sprinkle of JavaScript. 
 
-The .NET Solutions Delivery Centre / Human Centred Design (HCD) Methods and tools describe how HCD puts human-centred design into our engagements. While this resource is designed to be maintained as an internal tool, we encourage organizations in both the public and private sector to adopt human centred designed into their products and services. 
+The .NET Solutions Delivery Centre (SDC) provides I&IT solutions to the Ontario government. The SDC delivers development, hosting, and maintenance and support of solutions, including custom applications, SharePoint, and Dynamics. Supplementing the skills and talents of full time staff with external partner expertise, we offer innovative, client-centric solutions when and how they are needed.
 
 Nestled within the SDC, the Human Centred Design (HCD) team is tasked with fostering a culture of usability through human centered design to continuously improve the efficiency, effectiveness and satisfaction of products and services for Ontario citizens.
 
-The HCD Methods site describes how HCD puts human-centred design into our engagements. While this resource is designed to be maintained as an internal tool, we encourage organizations in both the public and private sector to adopt human centred design into their products and services. 
+The HCD Methods site describes how HCD puts human-centred design into our engagements. While this resource is designed to be maintained as an internal tool, we encourage organizations in both the public and private sector to adopt human centred design into their products and services.  
 
 ## Getting Started
 
