@@ -10,10 +10,10 @@ The HCD Methods site describes how HCD puts human-centred design into our engage
 ## Getting Started
 
 ### Reading the Methods online
-You’re presently looking at the Methods’ GitHub repository. Please visit [HCD Methods](http://hcdmethods.azurewebsites.net/) to read the Methods online.
+You’re presently looking at the Methods’ GitHub repository. Please visit [HCD Methods](https://hcdmethods.azurewebsites.net/) to read the Methods online.
 
 ### Printing the Methods
-To print a copy of the Methods for offline use, visit [HCD Methods](http://hcdmethods.azurewebsites.net/) and select file -> print… from your web browser.
+To print a copy of the Methods for offline use, visit [HCD Methods](https://hcdmethods.azurewebsites.net/) and select file -> print… from your web browser.
 
 ### Running the Methods on your local machine
 The only requirement to run methods on your local machine is to have a code editor which can spin up a standalone web server to serve up the HTML. We use [Visual Studio Code](https://code.visualstudio.com/). 
