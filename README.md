@@ -27,7 +27,7 @@ The only requirement to run methods on your local machine is to have a code edit
 ## Current Contributors
 * Stephanie Scott
 * Vergel Evans
-* Boris Iglesias((
+* Boris Iglesias
 * Jeremy Sims
 
 
