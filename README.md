@@ -24,12 +24,5 @@ The only requirement to run methods on your local machine is to have a code edit
 ## Current Team
 * Product Owner: Christopher Barrow
 
-## Current Contributors
-* Stephanie Scott
-* Vergel Evans
-* Boris Iglesias
-* Jeremy Sims
-
-
 
 
