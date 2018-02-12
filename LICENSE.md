@@ -1,0 +1,1 @@
+Use of this repository should adhere to the [Open Government Licence - Ontario](https://www.ontario.ca/page/open-government-licence-ontario).
